@@ -38,7 +38,7 @@
 
 <h2><p style="text-align: center"> <font face="Century Gothic" size= 6 color="black">
 Algunos tipos de arte son: 
-<br></h></p></font> 
+<br></font> 
 
    </section>
 <section id="Artes Estéticas o Espaciales">
