@@ -51,13 +51,13 @@ Algunos tipos de arte son:
 
     <section id="Artes Mixtas">
 <a href="arte2.html">
-</section>
+
 
 <h2><p style="text-align: center;"><font face="Kristen ITC" size= 6 color="black">Artes Mixta</h2></p>
 </a href>
 
     <section id="Artes Estéticas o Espaciales">
-<a href="arte3.html">
+<a href="arte3.html"></section>
 </section>
 
 <h2><p style="text-align: center;"><font face="Kristen ITC" size= 6 color="black">Artes Estéticas o Espaciales</h2></p>
