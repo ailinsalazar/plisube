@@ -30,7 +30,7 @@
 </head>
 <body>
     <div class="header">
-      <font face="Kristen ITC" size= 6 color="purple">
+      <font face="Kristen ITC" size= 4 color="purple">
   <h1><marquee behavior="alternate">ARTE</marquee></h1>
    </font>  </div>
 
