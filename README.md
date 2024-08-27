@@ -43,7 +43,7 @@ Algunos tipos de arte son:
   
 <section id="Artes Estéticas o Espaciales">
 <a href="arte1.html">
-</a></section>
+</section>
 
 
 
