@@ -40,7 +40,7 @@
 Algunos tipos de arte son: 
 <br></font> 
 
-   </section>
+  
 <section id="Artes Estéticas o Espaciales">
 <a href="arte1.html">
 </section>
