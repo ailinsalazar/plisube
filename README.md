@@ -33,7 +33,7 @@
         <h1><marquee behavior="alternate">ARTE</marquee></h1>
     </div>
 
-<h2><p style="text-align: center"> <font face="Century Gothic" size= 4 color="black">El arte es una actividad humana que tiene como objetivo crear obras culturales. <br>Es una expresión de la creatividad humana que se manifiesta en <br>obras que pueden ser apreciadas por los sentidos.<br> El arte puede ser una reproducción, construcción o expresión que deleita, <br>emociona o produce un choque.<br></h></p></font> 
+<h2><p style="text-align: center"> <font face="Century Gothic" size= 4 color="black">El arte es una actividad humana que tiene como objetivo crear obras culturales. <br>Es una expresión de la creatividad humana que se manifiesta en <br>obras que pueden ser apreciadas por los sentidos.<br> El arte puede ser una reproducción, construcción o expresión que deleita, <br>emociona o produce un choque.<br></font> 
 
 <h2><p style="text-align: center"> <font face="Century Gothic" size= 6 color="black">
 Algunos tipos de arte son: 
