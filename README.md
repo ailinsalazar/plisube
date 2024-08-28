@@ -95,5 +95,4 @@ Selecciona a que artistas conoces:<br></h></p></font>
     document.write(new Date());
 
     </script>
-</body>
-</html>
+
