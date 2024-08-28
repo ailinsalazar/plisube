@@ -62,8 +62,8 @@ Algunos tipos de arte son:
 <a href="arte3.html">
 </section>
 
-<h2><p style="text-align: center;"><font face="Kristen ITC" size= 6 color="black">Artes Estéticas o Espaciales</h2></p>
-</a href>
+<h2><p style="text-align: center;"><font face="Kristen ITC" size= 6 color="black">Artes Estéticas o Espaciales
+
 
 
 <h2><p style="text-align: left"> <font face="Century Gothic" size= 4 color="blue">
@@ -92,7 +92,7 @@ Selecciona a que artistas conoces:<br></h></p></font>
   document.write("Hola"+ " "+nombre + ","+ " " + "eso ha sido un poco sobre arte!")
 <br>
 
-    document.write(new Date());
+ document.write(new Date());
 
     </script>
 
