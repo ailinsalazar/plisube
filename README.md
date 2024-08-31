@@ -6,7 +6,46 @@
     <title>Página sistemas</title>
     <script languaje="javascript" type="text/javascript">
     <style>
-        body {
+        body {  font-family: century gothic;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #F1BF14;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+             }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+         nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center; padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+</style>
+</head>
+<body bgcolor="white">
    
 
 <h2><p style="text-align: left"> <font face="Century Gothic" size= 4 color="black">
