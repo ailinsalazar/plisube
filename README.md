@@ -55,12 +55,9 @@
   <nav>
          <font face="Century Gothic" size= 6 color="black">
         <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>
-        <a href="#Artistas"><p style="text-align: center;">Artistas</p></a>
-        <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>
-        <a href="#Historia"><p style="text-align: center;">Historia</p></a>
-<a href="#Arquitectura"><p style="text-align: center;">Arquitectura</p></a>
-             <a href="#Programas"><p style="text-align: center;">Programas</p></a>
-
+        <a href="#Artes Mixtas"><p style="text-align: center;">Artes Mixtas</p></a>
+        <a href="#Artes Estáticas o Espaciales"><p style="text-align: center;">Artes Estáticas o Espaciales</p></a>
+        
          </font>
     </nav>
 <section id="Inicio">
