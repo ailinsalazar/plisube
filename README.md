@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página sistemas</title>
+    <script languaje="javascript" type="text/javascript">
     <style>
         body {
    
