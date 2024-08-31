@@ -46,6 +46,34 @@
 </style>
 </head>
 <body bgcolor="white">
+<body>
+    <div class="header">
+        <h1><marquee behavior="alternate">ARTE</marquee></h1>
+    </font>
+       </header>
+    </div>
+  <nav>
+         <font face="Century Gothic" size= 6 color="black">
+        <a href="#Inicio"><p style="text-align: center;">Inicio</p></a>
+        <a href="#Artistas"><p style="text-align: center;">Artistas</p></a>
+        <a href="#Escritores"><p style="text-align: center;">Escritores</p></a>
+        <a href="#Historia"><p style="text-align: center;">Historia</p></a>
+<a href="#Arquitectura"><p style="text-align: center;">Arquitectura</p></a>
+             <a href="#Programas"><p style="text-align: center;">Programas</p></a>
+
+         </font>
+    </nav>
+<section id="Inicio">
+
+<div style="text-align: left;"> 
+<img src="paleta.jpg" alt="Mi imagen alineada a la derecha" width=200 height>
+</div>
+
+<h2><p style="text-align: center;">  <font face="Century Gothic" size= 6 color="black">¡Hola seño Marinita, es un gusto tenerla de visita por mi página!
+<p style="text-align: center;">
+      <b>¿Quiénes somos?</b><br>
+
+
    
 
 <h2><p style="text-align: left"> <font face="Century Gothic" size= 4 color="black">
